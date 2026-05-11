@@ -154,7 +154,7 @@ The results indicate that performance differences between forecasting approaches
 
 EDA was performed to understand weather patterns and solar power behavior across different climates.
 
-![EDA Analysis](figures/Figures.png)
+![EDA Analysis](Figures.png)
 ---
 
 ## Repository Structure
