@@ -96,10 +96,6 @@ The dataset is fully reproducible by rerunning the notebook, as it is directly f
 ### Locations
 - Phoenix, Arizona, USA
 - Berlin, Germany
-
-### Temporal Resolution
-Hourly data
-
 ---
 
 ## Evaluation Metrics
