@@ -151,13 +151,9 @@ The results indicate that performance differences between forecasting approaches
 ## Visualizations
 
 ### Model Comparison
-_Add model comparison figure here_
+## Model Comparison
 
-### Actual vs Predicted Power
-_Add forecasting plots here_
-
-### Residual Analysis
-_Add residual plots here_
+![Model Comparison](figures/model_comparison.png)
 
 ---
 
