@@ -170,12 +170,7 @@ physics-informed-solar-forecasting/
 ├── README.md
 ├── requirements.txt
 │
-├── figures/
-│   ├── model_comparison.png
-│   ├── phoenix_predictions.png
-│   ├── berlin_predictions.png
-│   └── residual_analysis.png
-│
+├── figures
 ├── results/
 │   └── metrics.csv
 │
