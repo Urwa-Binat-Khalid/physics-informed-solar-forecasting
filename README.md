@@ -62,7 +62,28 @@ This method attempts to combine:
 
 ## Dataset
 
-Weather data was collected using the NASA POWER API.
+The dataset used in this project is generated using the NASA POWER API, which provides high-resolution hourly meteorological and solar irradiance data.
+
+No manual CSV files were used. All data is dynamically fetched and processed within the pipeline.
+ Locations Used
+Phoenix, Arizona, USA (hot desert climate)
+Berlin, Germany (temperate/cloudy climate)
+
+These locations were selected to evaluate model robustness across contrasting climate conditions.
+Additional engineered temporal features:
+Hour of day
+Day of year
+Month
+Temporal Resolution
+Hourly data
+Year: 2021
+Final Dataset Statistics
+Total samples: 17,520
+Features: 6 core variables + engineered features
+Locations: 2
+Data source: NASA POWER API
+Reproducibility Note
+The dataset is fully reproducible by rerunning the notebook, as it is directly fetched from the NASA POWER API.
 
 ### Features Used
 - Global Horizontal Irradiance (GHI)
@@ -165,7 +186,4 @@ physics-informed-solar-forecasting/
 ├── solar_forecasting.ipynb
 ├── README.md
 ├── requirements.txt
-│
-├── figures
-└── data/
-    └── sample_data.csv
+│├── figures
