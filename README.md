@@ -150,11 +150,11 @@ The results indicate that performance differences between forecasting approaches
 
 ## Visualizations
 
-### Model Comparison
-## Model Comparison
+## Exploratory Data Analysis (EDA)
 
-![Model Comparison](figures/model_comparison.png)
+EDA was performed to understand weather patterns and solar power behavior across different climates.
 
+![EDA Analysis](figures/Figures.png)
 ---
 
 ## Repository Structure
