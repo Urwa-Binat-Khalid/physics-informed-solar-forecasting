@@ -167,8 +167,5 @@ physics-informed-solar-forecasting/
 ├── requirements.txt
 │
 ├── figures
-├── results/
-│   └── metrics.csv
-│
 └── data/
     └── sample_data.csv
